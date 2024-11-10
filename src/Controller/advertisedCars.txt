@@ -1,0 +1,9 @@
+01 1750000 Ford Fiesta 2011 Diesel 1.4 70 150000 Front Manual
+Good Cars
++36 30 123 4567
+0d2439376048403f9e4a96109d85cd62 1200 Daewoo Tico 1990 Gasoline 1.4 100 200000  Front Wheel Drive Manual
+Teszt Elek
++36 12 345 6789
+a4e167e7a61e4287b7642fa6022706e7 130000 Honda Civic 2001 Diesel 2.0 150 200000  Front Wheel Drive Manual
+Teszt Elek
++36 12 345 6789
